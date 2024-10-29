@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "UTS_Lab_Fix",
+    "slug": "UTS_Lab_Fix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Union.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}
