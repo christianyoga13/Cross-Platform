@@ -36,5 +36,4 @@ yarn-error.*
 *.tsbuildinfo
 
 #Sensitive json
-Week12_ChristianYoga_00000067471/uts-lab-3f13b-5c3071bfcc2f.json
-Week12_ChristianYoga_00000067471/google-services.json
+uts-lab-3f13b-5c3071bfcc2f.json
