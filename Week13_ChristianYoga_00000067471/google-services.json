@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919193469489",
+    "project_id": "uts-lab-3f13b",
+    "storage_bucket": "uts-lab-3f13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919193469489:android:f5e037f28e782453d54b10",
+        "android_client_info": {
+          "package_name": "com.crossplat.umn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-S1OApd0XU9kNu8y0YTH5rwcME91ndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919193469489:android:bd996f02fe5afb4dd54b10",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-S1OApd0XU9kNu8y0YTH5rwcME91ndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
